@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "axios": "^0.23.0",
+        "axios": "^0.24.0",
         "jsdom": "^19.0.0",
         "rss-parser": "^3.12.0"
     },

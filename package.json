@@ -4,7 +4,7 @@
     "description": "inkrss-parse",
     "main": "index.js",
     "dependencies": {
-        "axios": "0.26.1",
+        "axios": "0.28.0",
         "jsdom": "19.0.0",
         "rss-parser": "3.12.0"
     },
